@@ -1,0 +1,5 @@
+print("hello world")
+print("My name is Juan Carlos")
+print("My group is 9A")
+print("My favourite food is Tacos al Pastor")
+print("My favourite sport is Tenis and Soccer")
