@@ -1,0 +1,7 @@
+age= int(input("How old are you= "))
+print("in months= ", age*12)
+print("in days= ", age*365)
+print("in weeks= ", age*48)
+print("in minutes= ", age*52600)
+print("in seconds= ", age*31536000)
+print("in hours= ", age*8760)
